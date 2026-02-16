@@ -23,7 +23,7 @@ RichEditDocumentServer's document is split into logical parts - [SubDocuments](h
 
 * [Word Processing - Document Model](https://docs.devexpress.com/OfficeFileAPI/15305/word-processing-document-api/word-processing-document/document-structure/document-model)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-iterate-through-all-sub-documents&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-iterate-through-all-sub-documents&~~~was_helpful=no)
 
